@@ -18,6 +18,5 @@ class MyApp extends StatelessWidget {
       ),
       home: Home(),
     );
-    //menambahkan untuk hacktoberfest
   }
 }
